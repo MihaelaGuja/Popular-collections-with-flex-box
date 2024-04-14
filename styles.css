@@ -62,6 +62,7 @@ button{
     object-fit: contain;
     width: 20px;
     height: 10px;
+    margin-left: 165px;
 }
 
 .footer{
@@ -70,7 +71,4 @@ button{
 }
 .people-p{
     margin-left: 10px;
-}
-.icon{
-    margin-left: 165px;
 }
